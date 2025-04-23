@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lembre-se de configura o texti no carregamento.html...</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      color: white;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+    }
+
+    .loader {
+      border: 6px solid #f3f3f3;
+      border-top: 6px solid #ff0000;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      animation: spin 1s linear infinite;
+      margin-bottom: 20px;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .text {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="loader"></div>
+  <div class="text">Lembre-se de configura o texto no carregamento.html</div>
+  
+  <div class="loader2"></div>
+  <div class="text2">eu coloquei essas mensagens para que você deixe do seu jeito,e não use modelo 100% pronto! o sistema você pode usa dboa.</div>
+
+  <script>
+    // Redireciona após 3 segundos
+    setTimeout(() => {
+      window.location.href = "index.html";
+    }, 7000);
+  </script>
+
+</body>
+</html>

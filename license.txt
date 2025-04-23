@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) [2025] [jockie]
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e arquivos de documentação associados (o "Software"), para
+usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
+cópias do Software, e para permitir que as pessoas a quem o Software é fornecido
+o façam, sujeito às seguintes condições:
+
+A permissão acima deve ser incluída em todas as cópias ou partes substanciais do Software.
+
+O Software é fornecido "no estado em que se encontra", sem qualquer garantia de
+qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias de
+comercialização, adequação a um propósito específico e não infração. Em nenhum caso o
+autor ou detentor dos direitos autorais será responsável por qualquer reclamação, dano ou
+outra responsabilidade, seja em uma ação de contrato, ilícito ou de outra forma, decorrente
+de, fora de ou em conexão com o Software ou o uso ou outros negócios no Software.
